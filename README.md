@@ -16,6 +16,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=601seo49shi1s472wazcsdwlk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=601seo49shi1s472wazcsdwlk&redirect=true)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=601seo49shi1s472wazcsdwlk&count=1)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
