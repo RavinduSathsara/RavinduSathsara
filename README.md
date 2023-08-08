@@ -14,7 +14,7 @@
 <img src='https://github-widgetbox.vercel.app/api/profile?username=RavinduSathsara&data=followers,repositories,stars,commits'>
 </p>  
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31wczytdkzvfzsgejlspepjpr32q&count=3)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31fh5xnzybfkq3fnsdrs4ks2kzgy&count=1)
 
 ### Languages and Tools:
 
