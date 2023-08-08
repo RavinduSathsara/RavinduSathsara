@@ -32,9 +32,12 @@
 
 ---
 
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=RavinduSathsara&data=followers,repositories,stars,commits'>
-</p>  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavinduSathsara)](https://github.com/anuraghazra/github-readme-stats)
+
+###<p align='center'>
+###<img src='https://github-widgetbox.vercel.app/api/profile?username=RavinduSathsara&data=followers,repositories,stars,commits'>
+###</p>  
 
 [youtube]: https://www.youtube.com/channel/UC9wmhRj6ts0HEuF61TdCiTw/channels
 [instagram]: https://instagram.com/
