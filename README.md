@@ -10,9 +10,6 @@
 
 <br />
 
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=RavinduSathsara&data=followers,repositories,stars,commits'>
-</p>  
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=601seo49shi1s472wazcsdwlk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=601seo49shi1s472wazcsdwlk&redirect=true)
 
@@ -34,6 +31,10 @@
 <br />
 
 ---
+
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=RavinduSathsara&data=followers,repositories,stars,commits'>
+</p>  
 
 [youtube]: https://www.youtube.com/channel/UC9wmhRj6ts0HEuF61TdCiTw/channels
 [instagram]: https://instagram.com/
