@@ -9,6 +9,9 @@
 - ⚡ Fun fact: I love to code everyday
 
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username=RavinduSathsara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavinduSathsara)](https://github.com/anuraghazra/github-readme-stats)
 
