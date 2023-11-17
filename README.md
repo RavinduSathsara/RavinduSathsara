@@ -1,7 +1,7 @@
 ### Hi there, I'm Ravindu Sathsara
 
 
-## I'm Associate Software Engineer
+## I'm Software Engineer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
